@@ -18,7 +18,7 @@ Make sure you have Flutter installed on your machine. If not, you can follow the
 
 ```bash
 git clone https://github.com/itsmeAmal/flutter_bloc_pattern.git
-cd flutter-bloc-sample
+
 ```
 
 ### Run the Project
